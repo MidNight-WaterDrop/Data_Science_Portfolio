@@ -5,7 +5,7 @@ baseurl: "/your-portfolio" # Change to your repository name for project sites, e
 url: "[invalid url, do not cite] # Set to your GitHub Pages URL
 show_downloads: false
 google_analytics: # Optional: Add your Google Analytics tracking ID
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 exclude:
