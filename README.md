@@ -75,7 +75,7 @@ Data Analyst with expertise in machine learning, data analysis, and cloud comput
   - Mandarin (Native Speaker)  
 
 - **Certifications**:  
-  - AWS Certified Cloud Practitioner (Expected 2025)
+  - AWS Certified Cloud Practitioner (2025-2028)
 
 ---
 
