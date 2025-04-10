@@ -20,7 +20,7 @@
   - **Capstone Project**: Created a customer churn prediction model using logistic regression and random forests in Python, leveraging SQL for data preprocessing. Achieved an accuracy of 85% and presented findings to a panel of industry experts.  
 
 - **B.A., International Trade and Business | Tung-Hai University (_June 2029_)**  
-  - **GPA**: 3.4 / 4.0, Graduated with Honors  
+  - **GPA**: 3.4 / 4.0
   - **Core Subjects**:  
     - *Project Management*: Led a team to analyze supply chain inefficiencies.  
     - *Statistics*: Conducted hypothesis testing and ANOVA on trade data.  
