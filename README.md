@@ -1,55 +1,88 @@
-# Data Scientist
+# Data Scientist & Business Intelligence Analyst Portfolio
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills:
+- **Python**: Highly proficient in data manipulation and analysis using libraries like **Pandas** (e.g., merging datasets, handling missing data), **NumPy** (e.g., array operations, linear algebra), and machine learning with **Scikit-learn** (e.g., classification, regression) and **XGBoost** (e.g., gradient boosting). Experienced in deep learning frameworks such as **TensorFlow** and **Keras** for neural network development.  
+- **SQL**: Advanced skills in writing complex queries for data extraction, aggregation, and transformation using **MySQL**, **PostgreSQL**, and **SQL Server**. Proficient in optimizing database performance and designing schemas.  
+- **AWS**: Skilled in cloud solutions including S3 (storage), EC2 (compute), Lambda (serverless), Redshift (data warehousing), and **ECS (Elastic Container Service)** for orchestrating Docker containers, enabling scalable and efficient data pipelines.
+- **Tableau**: Expert in designing interactive, user-friendly dashboards for stakeholders, integrating multiple data sources, and creating visualizations (e.g., heatmaps, trend lines) for real-time KPI monitoring.  
+- **R**: Proficient in statistical modeling (e.g., hypothesis testing, regression analysis) and data visualization using packages like **ggplot2** and **dplyr** for data wrangling.
+---
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- **M.S., Data Analytics | The Pennsylvania State University (_December 2024_)**  
+  - **GPA**: 3.87 / 4.0  
+  - **Relevant Coursework**:  
+    - *Deep Learning*: Built neural networks for image classification using TensorFlow.  
+    - *Predictive Analytics*: Applied time-series forecasting models to real-world datasets.  
+    - *Analytics Programming in Python*: Developed end-to-end data pipelines.  
+    - *Data Mining*: Explored clustering and association rule mining techniques.  
+    - *Large-Scale Database and Warehouse*: Designed scalable data storage solutions.  
+  - **Capstone Project**: Created a customer churn prediction model using logistic regression and random forests in Python, leveraging SQL for data preprocessing. Achieved an accuracy of 85% and presented findings to a panel of industry experts.  
+
+- **B.A., International Trade and Business | Tung-Hai University (_June 2029_)**  
+  - **GPA**: 3.4 / 4.0, Graduated with Honors  
+  - **Core Subjects**:  
+    - *Project Management*: Led a team to analyze supply chain inefficiencies.  
+    - *Statistics*: Conducted hypothesis testing and ANOVA on trade data.  
+    - *Data Visualization*: Created charts and graphs to communicate trends.  
+  - **Thesis**: "Global Trade Patterns: A Statistical Analysis" – Used R to analyze 10 years of trade data, identifying key economic drivers. Presented at Tung-Hai University’s Annual Research Symposium, earning a top presentation award.  
+
+---
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Business Intelligence Analyst @ TBL Services Inc. (_January 2025 - Present_)**  
+- Designed and optimized **SQL Server** queries to enhance freight payment analysis, reducing processing time by 30% and improving data accuracy for financial reporting.  
+- Built **Python-based ETL pipelines** to ingest and transform data from disparate sources (e.g., CSV files, APIs), enabling account managers to access clean datasets 20% faster.  
+- Deployed automated data workflows in **AWS**, using **S3** for storage, **Lambda** for event-driven processing, and **ECS** to orchestrate **Docker containers**, enhancing scalability and cutting deployment times by 20%.
+- Created automated reporting tools with **Python** (e.g., using Matplotlib for plots) and **Tableau** dashboards, delivering weekly insights to business data scientists with 100% uptime.  
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Logistics Analyst @ TBL Services Inc. (_March 2023 - December 2026_)**  
+- Automated logistics workflows with **Python ETL scripts**, integrating data from warehouse systems and reducing manual processing time by 25%.  
+- Developed tailored **SQL datasets** for customer-specific reporting, improving client satisfaction scores by 15% through precise, actionable insights.  
+- Implemented **Recurrent Neural Networks (RNNs)** in Python to cleanse noisy logistics data, boosting reporting accuracy by 15% and enabling better forecasting.  
+- Collaborated with supply chain teams to introduce data-driven process improvements, cutting operational costs by 10% through optimized resource allocation.  
+
+**Logistics Coordinator @ TBL Services Inc. (_February 2021 - February 2023_)**  
+- Utilized **Tableau** to analyze logistics costs, identifying inefficiencies that led to an 8% annual cost reduction across transportation channels.  
+- Designed dynamic **Tableau dashboards** with real-time KPIs (e.g., shipping delays, fuel costs), accelerating decision-making by 20% for logistics managers.  
+- Maintained data integrity in shipping documentation using **ERP systems**, reducing errors by 15% and ensuring compliance with regulatory standards.  
+- Executed cost-saving strategies by analyzing historical data, streamlining workflows, and negotiating vendor contracts based on insights.  
+
+---
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Water Potability Prediction System  
+- **Objective**: Built a predictive model to classify water as potable or non-potable using physicochemical properties (e.g., pH, hardness, turbidity).  
+- **Dataset**: Utilized a Kaggle dataset with 3,276 samples and 9 features, addressing missing values through imputation.  
+- **Methodology**: Trained **Random Forest** and **XGBoost** models, tuning hyperparameters with **Bayesian Optimization** to achieve a 12% accuracy boost (final accuracy: 89%).  
+- **Insights**: Identified pH and sulfate levels as top predictors, informing water treatment recommendations.  
+- **Technologies**: Python (Scikit-learn, XGBoost), Pandas, NumPy, Matplotlib for visualization.  
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+### E-commerce User Behavior Analysis with Deep Learning  
+- **Objective**: Predicted user purchase intent to enhance e-commerce personalization.  
+- **Dataset**: Processed 5.4 million user interaction records (clicks, views, purchases) from an e-commerce platform.  
+- **Methodology**: Implemented a **DeepFM** model combining factorization machines and deep neural networks. Preprocessed data with one-hot encoding and embeddings, achieving a **ROC-AUC of 0.9998**.  
+- **Impact**: Improved recommendation accuracy by 18%, driving potential revenue growth for large-scale platforms.  
+- **Technologies**: Python (TensorFlow, Keras), SQL for data extraction, AWS (S3, EC2) for deployment.  
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### Big Data Processing & Cloud Computing  
+- **Objective**: Optimized internal processes through scalable data analysis.  
+- **Methodology**: Deployed **Hadoop** on a 5-node cluster to process 10TB of operational data. Designed ETL workflows in **KNIME** to clean and aggregate data, applying **association rule mining** (e.g., Apriori algorithm) to uncover process bottlenecks.  
+- **Impact**: Recommended workflow changes that improved efficiency by 10%, validated through A/B testing.  
+- **Technologies**: Hadoop, KNIME, AWS (S3 for storage, EC2 for computation), Python for scripting.  
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+---
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+## Additional Information
+- **Courses**:  
+  - *Java Programming and Software Engineering Fundamentals* (Coursera, Oct 2024 - Jan 2025): Mastered object-oriented programming and design patterns.  
+  - *Algorithms* (Coursera, Oct 2024 - Jan 2025): Studied sorting, searching, and graph algorithms.  
+  - *Computer Organization* (Coursera, Nov 2024 - Jan 2025): Explored CPU architecture and memory systems.  
+  - *Operating Systems* (Coursera, Nov 2024 - Jan 2025): Learned process management and threading.  
+  - *Mathematics for Computer Science* (Coursera, Dec 2024 - Jan 2025): Strengthened skills in discrete math and probability.   
 
-![Bike Study](/assets/img/bike_study.jpeg)
+- **Languages**:  
+  - **Mandarin**: Native Speaker.
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
+- **Certifications**:  
+  - AWS Certified Cloud Practitioner (2025).
