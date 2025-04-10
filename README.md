@@ -1,4 +1,4 @@
-# Data Scientist & Business Intelligence Analyst Portfolio
+# Data Science Portfolio
 
 #### Technical Skills:
 - **Python**: Highly proficient in data manipulation and analysis using libraries like **Pandas** (e.g., merging datasets, handling missing data), **NumPy** (e.g., array operations, linear algebra), and machine learning with **Scikit-learn** (e.g., classification, regression) and **XGBoost** (e.g., gradient boosting). Experienced in deep learning frameworks such as **TensorFlow** and **Keras** for neural network development.  
