@@ -17,16 +17,14 @@
     - *Analytics Programming in Python*: Developed end-to-end data pipelines.  
     - *Data Mining*: Explored clustering and association rule mining techniques.  
     - *Large-Scale Database and Warehouse*: Designed scalable data storage solutions.  
-  - **Capstone Project**: Created a customer churn prediction model using logistic regression and random forests in Python, leveraging SQL for data preprocessing. Achieved an accuracy of 85% and presented findings to a panel of industry experts.  
+  - **Capstone Project**: Developed a machine learning model to predict water potability using physicochemical properties, leveraging data preprocessing, transformation, and visualization techniques.
 
 - **B.A., International Trade and Business | Tung-Hai University (_June 2029_)**  
   - **GPA**: 3.4 / 4.0
   - **Core Subjects**:  
     - *Project Management*: Led a team to analyze supply chain inefficiencies.  
     - *Statistics*: Conducted hypothesis testing and ANOVA on trade data.  
-    - *Data Visualization*: Created charts and graphs to communicate trends.  
-  - **Thesis**: "Global Trade Patterns: A Statistical Analysis" – Used R to analyze 10 years of trade data, identifying key economic drivers. Presented at Tung-Hai University’s Annual Research Symposium, earning a top presentation award.  
-
+    - *Data Visualization*: Created charts and graphs to communicate trends. 
 ---
 
 ## Work Experience
