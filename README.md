@@ -92,7 +92,7 @@ Data Analyst with expertise in machine learning, data analysis, and cloud comput
   - **Results**: Achieved ROC-AUC of 0.9998, improving recommendations by 18%.  
   - **Technologies**: Python (TensorFlow, Keras), SQL, AWS (S3, EC2).
 
-- **[Big Data Processing & Cloud Computing]**  
+- **Big Data Processing & Cloud Computing**  
   - **Objective**: Optimize processes with scalable data analysis.  
   - **Approach**: Deployed a 5-node Hadoop cluster and ETL workflows in KNIME.  
   - **Results**: Identified inefficiencies for process improvements.  
