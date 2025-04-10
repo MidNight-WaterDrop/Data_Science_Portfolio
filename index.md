@@ -1,4 +1,12 @@
-# Welcome to My Data Science Portfolio
+# Data Science Portfolio
+
+#### Technical Skills:
+- **Python**: Highly proficient in data manipulation and analysis using libraries like **Pandas** (e.g., merging datasets, handling missing data), **NumPy** (e.g., array operations, linear algebra), and machine learning with **Scikit-learn** (e.g., classification, regression) and **XGBoost** (e.g., gradient boosting). Experienced in deep learning frameworks such as **TensorFlow** and **Keras** for neural network development.  
+- **SQL**: Advanced skills in writing complex queries for data extraction, aggregation, and transformation using **MySQL**, **PostgreSQL**, and **SQL Server**. Proficient in optimizing database performance and designing schemas.  
+- **AWS**: Skilled in cloud solutions including S3 (storage), EC2 (compute), Lambda (serverless), Redshift (data warehousing), and **ECS (Elastic Container Service)** for orchestrating Docker containers, enabling scalable and efficient data pipelines.
+- **Tableau**: Expert in designing interactive, user-friendly dashboards for stakeholders, integrating multiple data sources, and creating visualizations (e.g., heatmaps, trend lines) for real-time KPI monitoring.  
+- **R**: Proficient in statistical modeling (e.g., hypothesis testing, regression analysis) and data visualization using packages like **ggplot2** and **dplyr** for data wrangling.
+---
 
 ## Education
 - **M.S., Data Analytics | The Pennsylvania State University (December 2024)**  
@@ -39,7 +47,6 @@
   - Maintained data integrity in ERP systems, reducing documentation errors by 15%.  
 
 ---
-
 ## Additional Information
 - **Courses**:  
   - *Java Programming and Software Engineering Fundamentals* (Coursera, Oct 2024 - Jan 2025): Mastered OOP and design patterns.  
@@ -53,7 +60,6 @@
 - **Certifications**: AWS Certified Cloud Practitioner (2025)  
 
 ---
-
 ## Projects
 - **[Water Potability Prediction System](projects/project1.md)**  
   - **Overview**: Built a model to classify water as potable or non-potable using physicochemical properties.  
@@ -70,18 +76,8 @@
 - **[Big Data Processing & Cloud Computing](projects/project3.md)**  
   - **Overview**: Optimized internal processes with scalable data analysis.  
   - **Approach**: Deployed Hadoop on a 5-node cluster, designed ETL workflows in KNIME, and applied association rule mining.  
-  - **Results**: Recommended changes that improved efficiency by 10%.  
-  - **Technologies**: Hadoop, KNIME, AWS (S3, EC2), Python.  
-
----
-
-## Skills
-- **Python**: Proficient in data manipulation (Pandas, NumPy), machine learning (Scikit-learn, XGBoost), and deep learning (TensorFlow, Keras). Applied in water potability and e-commerce projects.  
-- **SQL**: Advanced query writing for extraction and transformation (MySQL, PostgreSQL, SQL Server). Optimized queries in work experience.  
-- **AWS**: Skilled in S3, EC2, Lambda, and ECS for scalable pipelines. Deployed workflows in projects and work.  
-- **Tableau**: Expert in creating interactive dashboards for real-time KPI monitoring. Used in logistics roles.  
-- **R**: Proficient in statistical modeling and visualization (ggplot2, dplyr). Applied in coursework and projects.  
-
+  - **Technologies**: Hadoop, KNIME, Python.
+  - 
 ---
 
 ## Contact
