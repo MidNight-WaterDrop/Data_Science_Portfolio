@@ -1,28 +1,5 @@
-# Site settings
-title: Your Name's Data Science Portfolio
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  A portfolio showcasing my data science projects and skills.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://yourdomain.com
-github_username: yourusername
-
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-# Collections
-collections:
-  projects:
-    output: true
-    permalink: /projects/:path/
-
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: project
+title: Shaw Talebi
+logo: /assets/img/headshot_circle.png
+#description: text below image
+show_downloads: true
+theme: jekyll-theme-minimal
