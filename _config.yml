@@ -1,0 +1,19 @@
+title: "Cheng Yu (Eric) Wu"
+description: "Showcasing my data science projects and skills."
+baseurl: ""
+url: "https://yourusername.github.io"
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
