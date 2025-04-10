@@ -1,5 +1,5 @@
-title: "Cheng Yu (Eric) Wu"
-description: "Showcasing my data science projects and skills."
+title: "Cheng Yu (Eric) Wu - Data Science Resume"
+description: "Data scientist showcasing projects, skills, and experience."
 baseurl: ""
 url: "https://yourusername.github.io"
 theme: jekyll-theme-minimal
@@ -9,6 +9,12 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  experience:
+    output: true
+    permalink: /experience/:path/
+  education:
+    output: true
+    permalink: /education/:path/
 exclude:
   - .sass-cache/
   - .jekyll-cache/
