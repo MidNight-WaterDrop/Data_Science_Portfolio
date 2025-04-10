@@ -1,85 +1,105 @@
 # Data Science Portfolio
 
-#### Technical Skills:
-- **Python**: Highly proficient in data manipulation and analysis using libraries like **Pandas** (e.g., merging datasets, handling missing data), **NumPy** (e.g., array operations, linear algebra), and machine learning with **Scikit-learn** (e.g., classification, regression) and **XGBoost** (e.g., gradient boosting). Experienced in deep learning frameworks such as **TensorFlow** and **Keras** for neural network development.  
-- **SQL**: Advanced skills in writing complex queries for data extraction, aggregation, and transformation using **MySQL**, **PostgreSQL**, and **SQL Server**. Proficient in optimizing database performance and designing schemas.  
-- **AWS**: Skilled in cloud solutions including S3 (storage), EC2 (compute), Lambda (serverless), Redshift (data warehousing), and **ECS (Elastic Container Service)** for orchestrating Docker containers, enabling scalable and efficient data pipelines.
-- **Tableau**: Expert in designing interactive, user-friendly dashboards for stakeholders, integrating multiple data sources, and creating visualizations (e.g., heatmaps, trend lines) for real-time KPI monitoring.  
-- **R**: Proficient in statistical modeling (e.g., hypothesis testing, regression analysis) and data visualization using packages like **ggplot2** and **dplyr** for data wrangling.
+## Summary
+Data Analyst with expertise in machine learning, data analysis, and cloud computing. Skilled in building predictive models, optimizing data pipelines, and delivering actionable insights through visualization. Proven track record of collaborating with teams to enhance business processes. Holds a Master’s in Data Analytics from The Pennsylvania State University, focusing on solving real-world challenges with technical proficiency.
+
+---
+
+## Technical Skills
+- **Programming Languages**  
+  - **Python**: Built machine learning models (e.g., Random Forest, XGBoost) with up to 89% accuracy and ETL pipelines using Pandas and NumPy, reducing processing time by 20%. Experienced in TensorFlow and Keras for deep learning.  
+  - **R**: Performed statistical analysis and visualizations with ggplot2 and dplyr.
+
+- **Databases**  
+  - **SQL**: Optimized queries in MySQL, PostgreSQL, and SQL Server, cutting processing time by 30% for financial reports.
+
+- **Cloud Services**  
+  - **AWS**: Deployed scalable solutions with S3, EC2, Lambda, Redshift, and ECS, automating workflows to reduce deployment times by 20%.
+
+- **Visualization**  
+  - **Tableau**: Created interactive dashboards with real-time KPI monitoring using heatmaps and trend lines.
+
 ---
 
 ## Education
 - **M.S., Data Analytics | The Pennsylvania State University (December 2024)**  
   - **GPA**: 3.87 / 4.0  
-  - **Capstone Project**: Developed a machine learning model to predict water potability, achieving 89% accuracy using Random Forest and XGBoost. Utilized Python (Scikit-learn, XGBoost), Pandas, NumPy, and Matplotlib.  
+  - **Capstone Project**: Developed a water potability prediction model with 89% accuracy using Random Forest and XGBoost. [Details here](projects/project1.md).  
   - **Relevant Coursework**:  
-    - *Deep Learning*: Built neural networks for image classification using TensorFlow.  
-    - *Predictive Analytics*: Applied time-series forecasting to real-world datasets.  
-    - *Analytics Programming in Python*: Created end-to-end data pipelines.  
-    - *Data Mining*: Explored clustering and association rule mining techniques.  
-    - *Large-Scale Database and Warehouse*: Designed scalable data storage solutions.  
+    - *Deep Learning*: Designed neural networks for image classification.  
+    - *Predictive Analytics*: Applied time-series forecasting.  
+    - *Analytics Programming in Python*: Built end-to-end data pipelines.  
+    - *Data Mining*: Implemented clustering and association rule mining.  
+    - *Large-Scale Database and Warehouse*: Created scalable storage solutions.
 
-- **B.A., International Trade and Business | Tung-Hai University (June 2029)**  
+- **B.A., International Trade and Business | Tung-Hai University (June 2019)**  
   - **GPA**: 3.4 / 4.0  
   - **Core Subjects**:  
-    - *Project Management*: Led a team to analyze supply chain inefficiencies.  
-    - *Statistics*: Conducted hypothesis testing and ANOVA on trade data.  
-    - *Data Visualization*: Created charts to communicate trends effectively.  
+    - *Project Management*: Analyzed supply chain inefficiencies.  
+    - *Statistics*: Conducted hypothesis testing and ANOVA.  
+    - *Data Visualization*: Designed trend charts.
 
 ---
 
 ## Work Experience
-- **Business Intelligence Analyst @ TBL Services Inc. (January 2025 - Present)**  
-  - Optimized SQL Server queries, reducing processing time by 30% and enhancing data accuracy for financial reporting.  
-  - Built Python-based ETL pipelines, speeding up dataset access by 20% for account managers.  
-  - Deployed automated workflows in AWS (S3, Lambda, ECS), improving scalability and cutting deployment times by 20%.  
-  - Created automated reporting tools with Python and Tableau, delivering weekly insights with 100% uptime.  
+- **Business Intelligence Analyst @ TBL Services Inc. (January 2023 - Present)**  
+  - Lead data-driven solutions to optimize business processes and provide insights.  
+  - Optimized SQL Server queries, reducing financial reporting time by 30%.  
+  - Built Python ETL pipelines, improving dataset access speed by 20%.  
+  - Deployed AWS workflows (S3, Lambda, ECS), cutting deployment times by 20%.  
+  - Created automated Tableau reports, ensuring 100% uptime for stakeholders.
 
-- **Logistics Analyst @ TBL Services Inc. (March 2023 - December 2026)**  
-  - Automated logistics workflows with Python ETL scripts, reducing manual processing time by 25%.  
-  - Developed tailored SQL datasets for customer reporting, boosting client satisfaction by 15%.  
-  - Implemented RNNs in Python to cleanse noisy logistics data, improving reporting accuracy by 15%.  
-  - Collaborated with supply chain teams to implement data-driven improvements, cutting costs by 10%.  
+- **Logistics Analyst @ TBL Services Inc. (March 2021 - December 2022)**  
+  - Automated logistics workflows with Python, reducing manual processing by 25%.  
+  - Developed SQL datasets for customer reporting, boosting satisfaction by 15%.  
+  - Used RNNs in Python to cleanse logistics data, improving accuracy by 15%.  
+  - Reduced operational costs by 10% through data-driven supply chain solutions.
 
-- **Logistics Coordinator @ TBL Services Inc. (February 2021 - February 2023)**  
-  - Analyzed logistics costs with Tableau, identifying inefficiencies that led to an 8% annual cost reduction.  
-  - Designed real-time Tableau dashboards with KPIs, accelerating decision-making by 20% for managers.  
-  - Maintained data integrity in ERP systems, reducing documentation errors by 15%.  
+- **Logistics Coordinator @ TBL Services Inc. (February 2019 - February 2021)**  
+  - Analyzed logistics costs with Tableau, cutting annual costs by 8%.  
+  - Designed real-time KPI dashboards, speeding up decisions by 20%.  
+  - Improved ERP data integrity, reducing errors by 15%.
 
 ---
+
 ## Additional Information
-- **Courses**:  
-  - *Java Programming and Software Engineering Fundamentals* (Coursera, Oct 2024 - Jan 2025): Mastered OOP and design patterns.  
-  - *Algorithms* (Coursera, Oct 2024 - Jan 2025): Studied sorting, searching, and graph algorithms.  
-  - *Computer Organization* (Coursera, Nov 2024 - Jan 2025): Explored CPU and memory systems.  
-  - *Operating Systems* (Coursera, Nov 2024 - Jan 2025): Learned process management and threading.  
-  - *Mathematics for Computer Science* (Coursera, Dec 2024 - Jan 2025): Strengthened discrete math and probability skills.  
+- **Courses** (Ongoing):  
+  - *Java Programming and Software Engineering Fundamentals* (Coursera, Oct 2024 - Jan 2025)  
+  - *Algorithms* (Coursera, Oct 2024 - Jan 2025)  
+  - *Computer Organization* (Coursera, Nov 2024 - Jan 2025)  
+  - *Operating Systems* (Coursera, Nov 2024 - Jan 2025)  
+  - *Mathematics for Computer Science* (Coursera, Dec 2024 - Jan 2025)  
 
-- **Languages**: Mandarin (Native Speaker)  
+- **Languages**:  
+  - Mandarin (Native Speaker)  
 
-- **Certifications**: AWS Certified Cloud Practitioner (2025)  
+- **Certifications**:  
+  - AWS Certified Cloud Practitioner (Expected 2025)  
 
 ---
+
 ## Projects
 - **[Water Potability Prediction System](projects/project1.md)**  
-  - **Overview**: Built a model to classify water as potable or non-potable using physicochemical properties.  
-  - **Approach**: Trained Random Forest and XGBoost models, achieving 89% accuracy.  
-  - **Results**: Identified pH and sulfate levels as key predictors, informing treatment recommendations.  
-  - **Technologies**: Python (Scikit-learn, XGBoost), Pandas, NumPy, Matplotlib.  
+  - **Objective**: Predict water potability using physicochemical data.  
+  - **Approach**: Trained Random Forest and XGBoost models with feature engineering.  
+  - **Results**: Achieved 89% accuracy, identifying key predictors like pH and sulfates.  
+  - **Technologies**: Python (Scikit-learn, XGBoost), Pandas, NumPy, Matplotlib.
 
 - **[E-commerce User Behavior Analysis with Deep Learning](projects/project2.md)**  
-  - **Overview**: Predicted user purchase intent to improve e-commerce personalization.  
-  - **Approach**: Implemented a DeepFM model, achieving a ROC-AUC of 0.9998.  
-  - **Results**: Enhanced recommendation accuracy by 18%, boosting potential revenue.  
-  - **Technologies**: Python (TensorFlow, Keras), SQL, AWS (S3, EC2).  
+  - **Objective**: Predict purchase intent for e-commerce personalization.  
+  - **Approach**: Built a DeepFM model, deployed on AWS.  
+  - **Results**: Achieved ROC-AUC of 0.9998, improving recommendations by 18%.  
+  - **Technologies**: Python (TensorFlow, Keras), SQL, AWS (S3, EC2).
 
 - **[Big Data Processing & Cloud Computing](projects/project3.md)**  
-  - **Overview**: Optimized internal processes with scalable data analysis.  
-  - **Approach**: Deployed Hadoop on a 5-node cluster, designed ETL workflows in KNIME, and applied association rule mining.  
+  - **Objective**: Optimize processes with scalable data analysis.  
+  - **Approach**: Deployed a 5-node Hadoop cluster and ETL workflows in KNIME.  
+  - **Results**: Identified inefficiencies for process improvements.  
   - **Technologies**: Hadoop, KNIME, Python.
-  - 
+
 ---
 
 ## Contact
-- **Email**: ericwu860508@gmail.com
-- **LinkedIn**: www.linkedin.com/in/cheng-yu-wu-a8b14718a
+- **Email**: ericwu860508@gmail.com  
+- **LinkedIn**: [www.linkedin.com/in/cheng-yu-wu-a8b14718a](www.linkedin.com/in/cheng-yu-wu-a8b14718a)  
+---
