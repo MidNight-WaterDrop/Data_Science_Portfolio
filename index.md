@@ -24,13 +24,6 @@ Data Analyst with expertise in machine learning, data analysis, and cloud comput
 ## Education
 - M.S., Data Analytics | The Pennsylvania State University | 2024
   - **GPA**: 3.87 / 4.0  
-  - **Relevant Coursework**:  
-    - *Deep Learning*: Designed neural networks for image classification.  
-    - *Predictive Analytics*: Applied time-series forecasting techniques.  
-    - *Analytics Programming in Python*: Built end-to-end data pipelines.  
-    - *Data Mining*: Implemented clustering and association rule mining.  
-    - *Large-Scale Database and Warehouse*: Created scalable storage solutions.
-
 ---
 
 ## Work Experience
