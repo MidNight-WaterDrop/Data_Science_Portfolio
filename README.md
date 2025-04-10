@@ -80,19 +80,19 @@ Data Analyst with expertise in machine learning, data analysis, and cloud comput
 ---
 
 ## Projects
-- **[Water Potability Prediction System](projects/project1.md)**  
+- **[Water Potability Prediction System](https://github.com/MidNight-WaterDrop/Analysis-of-Water-Quality-and-Potability)**  
   - **Objective**: Predict water potability using physicochemical data.  
   - **Approach**: Trained Random Forest and XGBoost models with feature engineering.  
   - **Results**: Achieved 89% accuracy, identifying key predictors like pH and sulfates.  
   - **Technologies**: Python (Scikit-learn, XGBoost), Pandas, NumPy, Matplotlib.
 
-- **[E-commerce User Behavior Analysis with Deep Learning](projects/project2.md)**  
+- **[E-commerce User Behavior Analysis with Deep Learning](https://github.com/MidNight-WaterDrop/Optimizing-E-Commerce-User-Experience-Behavioral-Analysis-and-Prediction-with-Deep-Learning)**  
   - **Objective**: Predict purchase intent for e-commerce personalization.  
   - **Approach**: Built a DeepFM model, deployed on AWS.  
   - **Results**: Achieved ROC-AUC of 0.9998, improving recommendations by 18%.  
   - **Technologies**: Python (TensorFlow, Keras), SQL, AWS (S3, EC2).
 
-- **[Big Data Processing & Cloud Computing](projects/project3.md)**  
+- **[Big Data Processing & Cloud Computing]**  
   - **Objective**: Optimize processes with scalable data analysis.  
   - **Approach**: Deployed a 5-node Hadoop cluster and ETL workflows in KNIME.  
   - **Results**: Identified inefficiencies for process improvements.  
