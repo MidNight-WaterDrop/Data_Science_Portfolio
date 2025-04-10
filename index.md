@@ -23,6 +23,7 @@ Data Analyst with expertise in machine learning, data analysis, and cloud comput
 
 ## Education
 - M.S., Data Analytics | The Pennsylvania State University | 2024
+---
   - GPA: 3.87 / 4.0  
 ---
 
