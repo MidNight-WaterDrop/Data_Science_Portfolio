@@ -1,11 +1,11 @@
 title: Your Name
 description: >-
   A personal portfolio showcasing my skills, experience, and projects.
-baseurl: "/your-portfolio" # Change to your repository name for project sites, e.g., /example-portfolio
-url: "[invalid url, do not cite] # Set to your GitHub Pages URL
+baseurl: "/your-portfolio"
+url: "https://yourusername.github.io"
 show_downloads: false
-google_analytics: # Optional: Add your Google Analytics tracking ID
-theme: jekyll-theme-minimal
+google_analytics:
+theme: minima
 plugins:
   - jekyll-feed
 exclude:
