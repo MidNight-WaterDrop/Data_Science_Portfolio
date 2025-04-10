@@ -22,7 +22,7 @@ Data Analyst with expertise in machine learning, data analysis, and cloud comput
 ---
 
 ## Education
-- **M.S., Data Analytics | The Pennsylvania State University (December 2024)**  
+ **M.S., Data Analytics | The Pennsylvania State University (December 2024)**  
   - **GPA**: 3.87 / 4.0  
   - **Capstone Project**: Developed a water potability prediction model with 89% accuracy using Random Forest and XGBoost. [Details here](projects/project1.md).  
   - **Relevant Coursework**:  
@@ -32,7 +32,7 @@ Data Analyst with expertise in machine learning, data analysis, and cloud comput
     - *Data Mining*: Implemented clustering and association rule mining.  
     - *Large-Scale Database and Warehouse*: Created scalable storage solutions.
 
-- **B.A., International Trade and Business | Tung-Hai University (June 2019)**  
+  **B.A., International Trade and Business | Tung-Hai University (June 2019)**  
   - **GPA**: 3.4 / 4.0  
   - **Core Subjects**:  
     - *Project Management*: Analyzed supply chain inefficiencies.  
@@ -74,7 +74,7 @@ Data Analyst with expertise in machine learning, data analysis, and cloud comput
   - Mandarin (Native Speaker)  
 
 - **Certifications**:  
-  - AWS Certified Cloud Practitioner (Expected 2025)  
+  - AWS Certified Cloud Practitioner 2025
 
 ---
 
@@ -101,5 +101,5 @@ Data Analyst with expertise in machine learning, data analysis, and cloud comput
 
 ## Contact
 - **Email**: ericwu860508@gmail.com  
-- **LinkedIn**: [www.linkedin.com/in/cheng-yu-wu-a8b14718a](www.linkedin.com/in/cheng-yu-wu-a8b14718a)  
+- **LinkedIn**: www.linkedin.com/in/cheng-yu-wu-a8b14718a
 ---
