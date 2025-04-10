@@ -30,7 +30,6 @@ Data Analyst with expertise in machine learning, data analysis, and cloud comput
     - *Analytics Programming in Python*: Built end-to-end data pipelines.  
     - *Data Mining*: Implemented clustering and association rule mining.  
     - *Large-Scale Database and Warehouse*: Created scalable storage solutions.
-- **B.A., International Trade and Business | Tung-Hai University | June 2019**   
 ---
 
 ## Work Experience
