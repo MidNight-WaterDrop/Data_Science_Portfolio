@@ -1,5 +1,3 @@
-# Your Name
-
 ## About Me
 
 Write a short bio here. For example:
