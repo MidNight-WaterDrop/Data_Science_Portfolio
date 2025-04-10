@@ -42,21 +42,21 @@ Data Analyst with expertise in machine learning, data analysis, and cloud comput
 ---
 
 ## Work Experience
-**TBL Services Inc.**  
-- **Business Intelligence Analyst (January 2023 - Present)**  
+**TBL Services Inc. Division of BDP International**  
+- **Business Intelligence Analyst (March 2025 - Present)**  
   - Led data-driven solutions to optimize business processes and provide actionable insights.  
   - Optimized SQL Server queries, reducing financial reporting time by 30%.  
   - Built Python ETL pipelines, improving dataset access speed by 20%.  
   - Deployed AWS workflows (S3, Lambda, ECS), cutting deployment times by 20%.  
   - Created automated Tableau reports, ensuring 100% uptime for stakeholders.
 
-- **Logistics Analyst (March 2021 - December 2022)**  
+- **Logistics Analyst (March 2022 - Feb 2025)**  
   - Automated logistics workflows with Python, reducing manual processing by 25%.  
   - Developed SQL datasets for customer reporting, boosting satisfaction by 15%.  
   - Used RNNs in Python to cleanse logistics data, improving accuracy by 15%.  
   - Reduced operational costs by 10% through data-driven supply chain solutions.
 
-- **Logistics Coordinator (February 2019 - February 2021)**  
+- **Logistics Coordinator (February 2020 - February 2022)**  
   - Analyzed logistics costs with Tableau, cutting annual costs by 8%.  
   - Designed real-time KPI dashboards, speeding up decisions by 20%.  
   - Improved ERP data integrity, reducing errors by 15%.
@@ -64,7 +64,7 @@ Data Analyst with expertise in machine learning, data analysis, and cloud comput
 ---
 
 ## Additional Information
-- **Courses (Ongoing)**:  
+- **Courses**:  
   - *Java Programming and Software Engineering Fundamentals* (Coursera, Oct 2024 - Jan 2025)  
   - *Algorithms* (Coursera, Oct 2024 - Jan 2025)  
   - *Computer Organization* (Coursera, Nov 2024 - Jan 2025)  
