@@ -7,8 +7,8 @@ Data Analyst with expertise in machine learning, data analysis, and cloud comput
 
 ## Technical Skills
 - **Programming Languages**  
-  - **Python**: Built machine learning models (e.g., Random Forest, XGBoost) with up to 89% accuracy and ETL pipelines using Pandas and NumPy, reducing processing time by 20%. Experienced in TensorFlow and Keras for deep learning.  
-  - **R**: Performed statistical analysis and visualizations with ggplot2 and dplyr.
+  - **Python**: Built machine learning models (e.g., Random Forest, XGBoost) and ETL pipelines using Pandas and NumPy. Experienced in TensorFlow and Keras for deep learning.  
+  - **R**: **[Performed statistical analysis, ML,and visualizations with ggplot2 and dplyr.](https://github.com/MidNight-WaterDrop/Machine-learning-with-R)**
 
 - **Databases**  
   - **SQL**: Optimized queries in MySQL, PostgreSQL, and SQL Server, cutting processing time by 30% for financial reports.
@@ -24,12 +24,12 @@ Data Analyst with expertise in machine learning, data analysis, and cloud comput
 ## Education
 - M.S., Data Analytics | The Pennsylvania State University |December 2024  
   - **GPA**: 3.87 / 4.0  
-  - **Capstone Project**: Developed a water potability prediction model with 89% accuracy using Random Forest and XGBoost. [Details here](projects/project1.md)  
+  - **Capstone Project**: **Developed a water potability prediction model with 89% accuracy using Random Forest and XGBoost. [Details here](https://github.com/MidNight-WaterDrop/Analysis-of-Water-Quality-and-Potability)**
   - **Relevant Coursework**:  
-    - *Deep Learning*: Designed neural networks for image classification.  
+    - *Deep Learning*: **[Designed neural networks for image classification.](https://github.com/MidNight-WaterDrop/Python-Deep-Learning)**
     - *Predictive Analytics*: Applied time-series forecasting techniques.  
     - *Analytics Programming in Python*: Built end-to-end data pipelines.  
-    - *Data Mining*: Implemented clustering and association rule mining.  
+    - *Data Mining*: Implemented clustering and association rule mining.
     - *Large-Scale Database and Warehouse*: Created scalable storage solutions.
 
 - B.A., International Trade and Business | Tung-Hai University | June 2019
