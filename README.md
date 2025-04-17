@@ -16,7 +16,7 @@ Data Analyst with expertise in machine learning, data analysis, and ETL. Proven 
 ## Education
 - M.S., Data Analytics | The Pennsylvania State University |December 2024  
   - **GPA**: **3.87 / 4.0**  
-  - **Capstone Project**: [Developed a water potability prediction model with 89% accuracy using Random Forest and XGBoost](https://github.com/MidNight-WaterDrop/Analysis-of-Water-Quality-and-Potability)
+  - **Capstone Project**: [Water Quality and Potability Prediction System](https://github.com/MidNight-WaterDrop/Analysis-of-Water-Quality-and-Potability)
   - **Relevant Coursework**: [Deep Learning](https://github.com/MidNight-WaterDrop/Python-Deep-Learning), [Predictive Analytics](https://github.com/MidNight-WaterDrop/Machine-learning-with-R), Data Mining
 
 ---
